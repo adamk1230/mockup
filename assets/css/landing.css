@@ -1,4 +1,5 @@
-@import url("https://fonts.googleapis.com/css?family=Raleway");
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Montserrat');
+
 body {
   padding: 0;
   margin: 0;
@@ -13,7 +14,11 @@ h4,
 h5,
 h6,
 a {
-  font-family: "Raleway";
+  font-family: "Montserrat";
+}
+
+p, span, .des {
+  font-family: "Merriweather";
 }
 
 .navbar {
